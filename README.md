@@ -14,7 +14,7 @@
 * Dotnet 5.0
 
 ## Exercises
-* Chap 1 (Duck App)
+* [Chap 1 (Duck App)](Chap1)
 > **The Strategy Pattern** defines a family of algorithms,
 encapsulates each one, and makes them interchangeable. Strategy
 lets the algorithm vary independently from clients that use it
